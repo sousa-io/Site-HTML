@@ -1,0 +1,51 @@
+body {
+    background-color: #FCF5EE;
+    overflow-x: hidden;
+}
+
+#declaracao {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #FFC4C4;
+    margin-bottom: 80px;
+    width: fit-content;
+    text-align: center;
+    margin-inline: auto;
+    padding: 5px;
+    border-radius: 8px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+}
+
+.declaracao {
+    background-color: #EE6983;
+    font-family: 'Lucida Sans', Geneva, Verdana, sans-serif;
+    padding: 20px;       
+    border-radius: 15px;
+    width: 90%;          
+    max-width: 500px;    
+    margin: 20px auto; 
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.2);
+}
+
+#assombra {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#razao-dias {
+    text-align: center;
+    background-color: #850E35;
+    color: white;
+    width: 95%;   
+    max-width: 350px;
+    margin: 10px auto;   
+    border-radius: 6px;
+    padding: 10px;
+}
+
+#sempre {
+    color: #914e59;
+}
+
+#finalizando {
+    text-align: center;
+    margin-top: 100px;
+}
