@@ -4,7 +4,8 @@ body {
 }
 
 #declaracao {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'My Heart', Impact, sans-serif;
+    font-size: 2.5em;
     background-color: #FFC4C4;
     margin-bottom: 80px;
     width: fit-content;
